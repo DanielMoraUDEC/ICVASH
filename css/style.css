@@ -308,11 +308,26 @@ ul.site_menu li a {
      font-size: 36px;
 }
 
+.nav-group{
+     width: 100%;
+}
+
 .openbtn {
      cursor: pointer;
      background-color: transparent;
      color: white;
      border: none;
+}
+
+.nav-item-logo{
+     display: inline-block;
+     margin: -40px 10px;
+     width: 200px;
+}
+
+.nav-item-img{
+     display: inline-block;
+     justify-content: flex-end;
 }
 
 
