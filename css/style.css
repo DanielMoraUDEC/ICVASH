@@ -262,6 +262,12 @@ button {
      background-repeat: no-repeat;
 }
 
+@media(max-width: 600px){
+     .mision{
+          display: inline;
+     }
+}
+
 ul.site_menu li {
      display: inline-block;
      padding-left: 58px;
